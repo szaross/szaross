@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">An aspiring developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szaross&label=wasted%20lifes&color=0e75b6&style=flat" alt="szaross" /> </p>
-
 - 🌱 I’m currently learning **Spring, Rust, Go and algorithms**
 
 - 📫 How to reach me **szymonszarek02@gmail.com**
@@ -21,3 +19,4 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=szaross&label=wasted%20lifes&color=0e75b6&style=flat" alt="szaross" /> </p>
