@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">An aspiring developer from Poland</h3>
 
-- 🌱 I’m currently learning **Spring, Rust, Erlang & Elixir and algorithms**
+- 🌱 I’m currently learning **Rust, Erlang & Elixir and algorithms**
 
 - 📫 How to reach me **szymonszarek02@gmail.com**
 
