@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">An aspiring developer from Poland</h3>
+<h1 align="center">hi 👋</h1>
 
 - 🌱 I’m currently learning **Rust, Erlang & Elixir and algorithms**
 
