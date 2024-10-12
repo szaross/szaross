@@ -1,6 +1,6 @@
 <h1 align="center">hi 👋</h1>
 
-- 🌱 I’m currently learning **Rust, Erlang & Elixir and algorithms**
+- 🌱 I’m currently learning **Rust and compilators**
 
 - 📫 How to reach me **szymonszarek02@gmail.com**
 
