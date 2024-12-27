@@ -1,6 +1,6 @@
 <h1 align="center">hi 👋</h1>
 
-- 🌱 I’m currently learning **Go and compilators**
+- 🌱 I’m currently learning **Go and compilers**
 
 - 📫 How to reach me **szymonszarek02@gmail.com**
 
